@@ -45,7 +45,20 @@ across the globe.
 
 ![image](https://github.com/pradip0508/StudyNotion/assets/109838856/1eb4f914-8cc5-459c-b941-89365cb7f2ed)
 
-9.
+
+INSTRUCTOR :
+1.My Course Page:
+
+![image](https://github.com/pradip0508/StudyNotion/assets/109838856/b8b29bf1-2bb3-4fde-b49e-c4a6c9c55c56)
+
+2.Course Builder Page:
+
+![image](https://github.com/pradip0508/StudyNotion/assets/109838856/7ea8f35e-302c-4368-98b7-75e3a984eab2)
+
+3. Course Details Page:
+   
+ ![image](https://github.com/pradip0508/StudyNotion/assets/109838856/3200b375-bb6a-4258-8d11-ae1236c651d7)
+
 
 
 
