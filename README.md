@@ -29,9 +29,6 @@ across the globe.
 ![image](https://github.com/pradip0508/StudyNotion/assets/109838856/821c2331-e14f-4305-ad6b-f1b24be59eca)
 
 
-![image](https://github.com/pradip0508/StudyNotion/assets/109838856/06e63aae-cdb2-4d41-8fbd-de741dfed775)
-
-
 5.Course Details Page:
 
 ![image](https://github.com/pradip0508/StudyNotion/assets/109838856/6b66e70a-8f23-4d2b-a556-02843659071e)
