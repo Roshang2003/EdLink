@@ -10,3 +10,12 @@ more accessible and engaging.
 
 − A platform for instructors to showcase their expertise and connect with learners
 across the globe.
+
+1.Login Page:
+
+![image](https://github.com/pradip0508/StudyNotion/assets/109838856/4942ca23-eefb-44dc-b991-60f9aab1eb38)
+
+
+2.SignUp Page:
+![image](https://github.com/pradip0508/StudyNotion/assets/109838856/420b12ea-a922-48ec-9d38-9eecfb44cb40)
+
